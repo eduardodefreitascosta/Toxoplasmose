@@ -7,7 +7,7 @@
 "Toxoplasmosis meta-analysis in animals in Brazil"
 
 # Authors: 
-"Gabriel Augusto Marques Rossi, Eduardo de Freitas Costa, Sarah Gabriël"
+"Gabriel Augusto Marques Rossi, Eduardo de Freitas Costa, Fabio Ribeiro Braga, Sarah Gabriël"
 
 
 ## This is a meta-analysis of Tosoplasmosis prevalence in different animal species in different regions of Brazil.
