@@ -1,0 +1,31 @@
+Number of studies combined: k = 11
+Number of observations: o = 4503
+Number of events: e = 588
+
+                     proportion           95%-CI
+Random effects model     0.1621 [0.0864; 0.2835]
+
+Quantifying heterogeneity:
+ tau^2 = 1.4175 [0.6781; 4.8914]; tau = 1.1906 [0.8235; 2.2117]
+ I^2 = 98.1% [97.5%; 98.6%]; H = 7.23 [6.29; 8.30]
+
+Test of heterogeneity:
+      Q d.f.  p-value
+ 522.69   10 < 0.0001
+
+Results for subgroups (random effects model):
+                     k proportion           95%-CI  tau^2    tau      Q   I^2
+Region = North       2     0.1639 [0.0166; 0.6949] 3.1171 1.7655 221.94 99.5%
+Region = Northeast   2     0.1757 [0.0767; 0.3535] 0.4291 0.6550  13.63 92.7%
+Region = South       4     0.3226 [0.2536; 0.4002] 0.0818 0.2860  10.19 70.6%
+Region = Southeast   3     0.0461 [0.0136; 0.1451] 1.1393 1.0674  29.42 93.2%
+
+Test for subgroup differences (random effects model):
+                     Q d.f. p-value
+Between groups   13.79    3  0.0032
+
+Details on meta-analytical method:
+- Inverse variance method
+- DerSimonian-Laird estimator for tau^2
+- Jackson method for confidence interval of tau^2 and tau
+- Logit transformation
