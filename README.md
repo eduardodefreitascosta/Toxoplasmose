@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/DOI/10.1007/s42081-021-00124-0.svg)](https://link.springer.com/article/10.1007/s42081-021-00124-0)
+[![DOI](https://zenodo.org/badge/DOI/10.1007/s42081-021-00124-0.svg)](https://doi.org/10.3390/ani12223102)
 
 
 
@@ -14,10 +14,9 @@
 
 ## The paper is available online:
 
-https://link.springer.com/article/10.1007/s42081-021-00124-0
+https://www.mdpi.com/2076-2615/12/22/3102
 
-de Freitas Costa, E., Schneider, S., Carlotto, G.B. et al. Zero-inflated-censored Weibull and gamma regression models to estimate wild boar population dispersal distance. Jpn J Stat Data Sci (2021). https://doi.org/10.1007/s42081-021-00124-0
-
+Rossi, G.A.M.; de Freitas Costa, E.; Gabriël, S.; Braga, F.R. A Systematic Review and Meta-Analysis on the Occurrence of Toxoplasmosis in Animals Slaughtered in Brazilian Abattoirs. Animals 2022, 12, 3102. https://doi.org/10.3390/ani12223102
 
 ## To run the analysis: 
  + The user must copy and paste all files to a folder (local or cloud).Alternatively, could clone the repository.
