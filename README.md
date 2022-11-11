@@ -4,7 +4,8 @@
 
 
 # Title: 
-"Toxoplasmosis meta-analysis in animals in Brazil"
+"Toxoplasmosis meta-analysis in animals in Brazil" 
+:microbe: :chart: :pig: :chicken: :goat: :sheep: :horse: :cow: 
 
 # Authors: 
 "Gabriel Augusto Marques Rossi, Eduardo de Freitas Costa, Fabio Ribeiro Braga, Sarah Gabriël"
